@@ -1,4 +1,4 @@
-# SentPred: COVID-19 Sentiment Analysis Across US States
+# SentPred: COVID-19 Sentiment Analysis Across US
 
 ## Project Overview
 
